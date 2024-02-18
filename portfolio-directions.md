@@ -35,6 +35,8 @@ A tabela abaixo procura direcionar as decisões dos projetos.
 | Stack        | Linguagem: Java, C#, Python, C++, Javascript, Typescript             | ✅ Preferir  | Linguagens fundamentais com amplo suporte, comunidades ativas e ecossistemas ricos.                  |
 | Tema         | Solução que utilizem apis de LLMs públicas/comerciais                | ✅ Preferir  | Uso de APIs de linguagem de máquina oferece oportunidades para inovação em diversos campos.          |
 | Tema         | Sistema de gestão de processos (ERP, Contábil, Comercial, ...)       | ✅ Preferir  | Ferramentas essenciais para a automação e eficiência de processos empresariais.                      |
+| Tema         | Aplicar no código-fonte YAGNI, KISS e DRY                            | ✅ Preferir  | https://bit.ly/3WFa96N   |
+| Tema         | APlicar SOLID e Clean Code                                           | ✅ Preferir  | SOLID - https://bit.ly/3tbawbD  e Clean Code - https://bit.ly/3E7AaDx |
 | Stack        | Dados: Redis e Memcached                                             | 🔍 Explorar | Sistemas de armazenamento em memória para cache e sessões, essenciais para aplicações de alta performance. |
 | Stack        | Dados: InfluxDB e TimescaleDB.                                       | 🔍 Explorar | Bancos de dados de séries temporais, úteis para análise de dados em tempo real.                      |
 | Stack        | Dados: Elasticsearch                                                 | 🔍 Explorar | Motor de busca e análise poderoso, ideal para pesquisa de texto e análise de grandes volumes de dados. |
