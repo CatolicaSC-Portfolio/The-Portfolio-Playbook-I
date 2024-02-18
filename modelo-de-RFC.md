@@ -44,7 +44,7 @@
 ### 3.3. Considerações de Segurança 
 - Análise de quaisquer potenciais questões de segurança introduzidas pela proposta e como elas podem ser mitigadas.
 
-### 4. Próximos Passos** 
+### 4. Próximos Passos
 - Descrever brevemente os próximos passos esperados após a conclusão deste documento - apresentar uma visão geral de cronograma considerando Portfólio I e II.
 
 ### 5. Referências
