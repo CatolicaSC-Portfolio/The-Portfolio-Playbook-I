@@ -28,7 +28,7 @@ Descrição detalhada da proposta, incluindo protocolos, algoritmos, procediment
 ### 3.1. Considerações de Design
 
 - Discussão sobre as escolhas de design, incluindo alternativas consideradas e justificativas para as decisões tomadas.
-- **Visão Geral da Arquitetura**: Descrição dos componentes principais e suas interconexões.
+- **Visão Inicial da Arquitetura**: Descrição dos componentes principais e suas interconexões.
 - **Padrões de Arquitetura**: Indicação de padrões específicos utilizados (ex.: MVC, Microserviços).
 - **Modelos C4**: Detalhamento da arquitetura em níveis: Contexto, Contêineres, Componentes, Código.
 
