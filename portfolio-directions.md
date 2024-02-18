@@ -33,8 +33,8 @@ A tabela abaixo procura direcionar as decisões dos projetos.
 | Stack        | Linguagem: Java, C#, Python, C++, Javascript, Typescript             | ✅ Preferir  | Linguagens fundamentais com amplo suporte, comunidades ativas e ecossistemas ricos.                  |
 | Tema         | Solução que utilizem apis de LLMs públicas/comerciais                | ✅ Preferir  | Uso de APIs de linguagem de máquina oferece oportunidades para inovação em diversos campos.          |
 | Tema         | Sistema de gestão de processos (ERP, Contábil, Comercial, ...)       | ✅ Preferir  | Ferramentas essenciais para a automação e eficiência de processos empresariais.                      |
-| Tema         | Aplicar no código-fonte YAGNI, KISS e DRY                            | ✅ Preferir  | https://bit.ly/3WFa96N   |
-| Tema         | APlicar SOLID e Clean Code                                           | ✅ Preferir  | SOLID - https://bit.ly/3tbawbD  e Clean Code - https://bit.ly/3E7AaDx |
+| Processo         | Aplicar no código-fonte YAGNI, KISS e DRY                            | ✅ Preferir  | https://bit.ly/3WFa96N   |
+| Processo         | APlicar SOLID e Clean Code                                           | ✅ Preferir  | SOLID - https://bit.ly/3tbawbD  e Clean Code - https://bit.ly/3E7AaDx |
 | Ferramenta   | Documentação em Wiki junto com repositório (Wiki do Github, GitLabs, ...) | 🔑 Obrigatório  | Facilita o acesso e a colaboração na documentação de projetos.                                        |
 | Ferramenta   | Deploy via CI/CD (Github Actions, Jenkins, ...)                      | 🔑 Obrigatório  | Automatiza o processo de deploy, melhorando a eficiência e a confiabilidade.                          |
 | Processo     | TDD                                                                  | 🔑 Obrigatório  | Prática de escrever testes antes do código, garantindo qualidade e reduzindo bugs.   
