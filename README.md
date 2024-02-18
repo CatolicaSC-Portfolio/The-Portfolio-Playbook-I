@@ -12,3 +12,10 @@ The-Portfolio-Playbook-I
 # Visão Geral
 
 <img width="930" alt="image" src="https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/assets/1449952/2eecc157-2f91-4e49-9fc8-532d54f1aa17">
+
+
+
+
+# Links
+
+Link para [Playbook de Portfólio II](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II)
