@@ -1,54 +1,56 @@
 # Capa
 
-- **Título da RFC**: Deve ser claro e conciso, refletindo a essência do produto ou ferramenta.
-- **Nome do Aluno**: Incluir o nome completo do aluno.
+- **Título do Projeto**: [Título claro e conciso que reflete a essência do produto ou ferramenta].
+- **Nome do Aluno**: [Nome completo do aluno].
 - **Curso**: Engenharia de Software.
-- **Data**: Data de entrega.
+- **Data de Entrega**: [Data].
 
 # Resumo
 
-- Uma breve descrição do conteúdo da RFC, destacando o propósito e os principais pontos de discussão do documento.
+Breve descrição do conteúdo do documento, incluindo o propósito do projeto e os principais pontos de discussão.
 
 ## 1. Introdução
 
 - **Contexto**: Breve descrição do contexto que envolve o projeto.
-- **Justificativa**: Por que o projeto é relevante para o campo de engenharia de software.
-- **Objetivos**: Descrever o objetivo principal do projeto e objetivos secundários, se houver.
+- **Justificativa**: Explicação da relevância do projeto para o campo da engenharia de software.
+- **Objetivos**: Descrição do objetivo principal do projeto e de quaisquer objetivos secundários.
 
 ## 2. Descrição do Projeto
 
-- **Tema do Projeto**: Apresentação detalhada do tema, incluindo o produto ou ferramenta a ser desenvolvido.
-- **Problemas a Resolver**: Enumerar e descrever os principais problemas que o projeto visa resolver.
-- **Limitações**: Explicitar quais problemas o projeto não pretende resolver, estabelecendo o escopo do trabalho.
+- **Tema do Projeto**: Detalhes do tema, incluindo o produto ou ferramenta a ser desenvolvido.
+- **Problemas a Resolver**: Lista dos principais problemas que o projeto visa resolver.
+- **Limitações**: Delimitação dos problemas que o projeto não abordará.
 
 ## 3. Especificação Técnica
 
-- Descrição detalhada da proposta, incluindo protocolos, algoritmos, procedimentos operacionais, formatos de dados, etc.
+Descrição detalhada da proposta, incluindo protocolos, algoritmos, procedimentos, formatos de dados, etc.
 
 ### 3.1. Considerações de Design
 
-- Discussão sobre as escolhas de design feitas durante o desenvolvimento da proposta, incluindo alternativas consideradas e justificativas para as decisões tomadas.
-
-- **Visão Geral**: Descrever a arquitetura de alto nível do sistema, incluindo componentes principais.
-- **Interconexões**: Como os componentes interagem entre si para alcançar os objetivos do sistema.
-- **Padrões de Arquitetura**: Mencionar se serão utilizados padrões de arquitetura específicos (ex.: MVC, Microserviços).
-- **Modelos C4**: Incluir Modelos C4 na RFC visando detalhar a arquitetura em níveis: Contexto, Contêineres, Componentes, Código. Esclarece estrutura, interações e implementações para stakeholders, com diagramas e exemplos de código.
+- Discussão sobre as escolhas de design, incluindo alternativas consideradas e justificativas para as decisões tomadas.
+- **Visão Geral da Arquitetura**: Descrição dos componentes principais e suas interconexões.
+- **Padrões de Arquitetura**: Indicação de padrões específicos utilizados (ex.: MVC, Microserviços).
+- **Modelos C4**: Detalhamento da arquitetura em níveis: Contexto, Contêineres, Componentes, Código.
 
 ### 3.2. Stack Tecnológica
 
-- **Linguagens de Programação**: Justificar a escolha de linguagens (ex.: Python para algoritmos de machine learning, Java para back-end).
-- **Frameworks e Bibliotecas**: Especificar quais frameworks e bibliotecas serão utilizados e por quê.
-- **Ferramentas de Desenvolvimento e Gestão de Projeto**: Descrever as ferramentas de desenvolvimento (ex.: Git, Docker) e gestão de projeto (ex.: Jira, Trello).
-- **Plataformas**: Indicar plataformas de deploy, bancos de dados, e outras tecnologias relevantes.
+- **Linguagens de Programação**: Justificativa para a escolha de linguagens específicas.
+- **Frameworks e Bibliotecas**: Frameworks e bibliotecas a serem utilizados.
+- **Ferramentas de Desenvolvimento e Gestão de Projeto**: Ferramentas para desenvolvimento e gestão do projeto.
+... qualquer outra informação referente a stack tecnológica ...
 
-### 3.3. Considerações de Segurança 
-- Análise de quaisquer potenciais questões de segurança introduzidas pela proposta e como elas podem ser mitigadas.
+### 3.3. Considerações de Segurança
 
-### 4. Próximos Passos
-- Descrever brevemente os próximos passos esperados após a conclusão deste documento - apresentar uma visão geral de cronograma considerando Portfólio I e II.
+Análise de possíveis questões de segurança e como mitigá-las.
 
-### 5. Referências
-- Listar todas as fontes de pesquisa, frameworks, bibliotecas e ferramentas que serão utilizadas no projeto.
+## 4. Próximos Passos
 
-### 6. Apêndices (Opcionais)
-Seções adicionais que fornecem informações complementares, dados de suporte ou discussões detalhadas que não se encaixam no corpo principal da RFC.
+Descrição dos passos seguintes após a conclusão do documento, com uma visão geral do cronograma para Portfólio I e II.
+
+## 5. Referências
+
+Listagem de todas as fontes de pesquisa, frameworks, bibliotecas e ferramentas que serão utilizadas.
+
+## 6. Apêndices (Opcionais)
+
+Informações complementares, dados de suporte ou discussões detalhadas fora do corpo principal.
