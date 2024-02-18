@@ -9,11 +9,6 @@
 
 - Uma breve descrição do conteúdo da RFC, destacando o propósito e os principais pontos de discussão do documento.
 
-# Índice
-
-- Listagem de todas as seções do documento com as respectivas páginas.
-
-
 ## 1. Introdução
 
 - **Contexto**: Breve descrição do contexto que envolve o projeto.
