@@ -9,7 +9,7 @@ As diretrizes neste documento servem como um ponto de partida para o desenvolvim
 
 O primeiro passo é decidir sobre o tema que será explorado no projeto do portfólio. Esta escolha inicial deve ser feita com base nos interesses do aluno e nas competências que deseja desenvolver.
 
-O Aluno deve atentar para o TechRadar onde há certos direcionamentos quanto ao tema e pilha tecnológica a ser segido.
+O Aluno deve atentar para o [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md) onde há certos direcionamentos quanto ao tema e pilha tecnológica a ser segido.
 
 ### 1.1 Projeto Individual
 O projeto é realizado individualmente, permitindo que cada aluno demonstre suas habilidades de maneira independente.
