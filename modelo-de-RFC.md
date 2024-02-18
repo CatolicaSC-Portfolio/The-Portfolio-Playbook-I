@@ -1,6 +1,6 @@
 # Capa
 
-- **Título do Projeto**: Deve ser claro e conciso, refletindo a essência do produto ou ferramenta.
+- **Título da RFC**: Deve ser claro e conciso, refletindo a essência do produto ou ferramenta.
 - **Nome do Aluno**: Incluir o nome completo do aluno.
 - **Curso**: Engenharia de Software.
 - **Data**: Data de entrega.
