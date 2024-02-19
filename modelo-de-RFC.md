@@ -1,7 +1,7 @@
 # Capa
 
 - **Título do Projeto**: [Título claro e conciso que reflete a essência do produto ou ferramenta].
-- **Nome do Aluno**: [Nome completo do aluno].
+- **Nome do Estudante**: [Nome completo do estudante].
 - **Curso**: Engenharia de Software.
 - **Data de Entrega**: [Data].
 
