@@ -4,7 +4,7 @@ O Processo de Escolha de Tema e Aprovação para o Projeto de Portfólio é paut
 elabora o RFC e obtem a aprovação dos professores para então iniciar o desenvolvimento do projeto. 
 
 ## Informações Iniciais
-As diretrizes neste documento servem como um ponto de partida para o desenvolvimento dos projetos de portfólio. Durante o semestre, os estudante terão a oportunidade de refinar suas ideias, ajustar seus planos e aprofundar a pesquisa sobre seus temas escolhidos, sempre com o objetivo de garantir que o projeto final esteja alinhado com os objetivos e expectativas do curso.
+As diretrizes neste documento servem como um ponto de partida para o desenvolvimento dos projetos de portfólio. Durante o semestre, os estudantes terão a oportunidade de refinar suas ideias, ajustar seus planos e aprofundar a pesquisa sobre seus temas escolhidos, sempre com o objetivo de garantir que o projeto final esteja alinhado com os objetivos e expectativas do curso.
 
 ## 1. Decisão do Tema do Projeto
 
