@@ -23,23 +23,28 @@ Breve descrição do conteúdo do documento, incluindo o propósito do projeto e
 
 ## 3. Especificação Técnica
 
-Descrição detalhada da proposta, incluindo protocolos, algoritmos, procedimentos, formatos de dados, etc.
+Descrição detalhada da proposta, incluindo requisitos de software, protocolos, algoritmos, procedimentos, formatos de dados, etc.
 
-### 3.1. Considerações de Design
+### 3.1. Requisitos de Software
+- Apresentar os requisitos do tema proposto.
+- **Lista de Requisitos** Apresentar uma lista contendo os Requisitos Funcionais (RF) e Não-Funcionais (RNF).
+- **Representação dos Requisitos** Representar os RFs por meio de Diagrama de Casos de Uso (UML).
+
+### 3.2. Considerações de Design
 
 - Discussão sobre as escolhas de design, incluindo alternativas consideradas e justificativas para as decisões tomadas.
 - **Visão Inicial da Arquitetura**: Descrição dos componentes principais e suas interconexões.
 - **Padrões de Arquitetura**: Indicação de padrões específicos utilizados (ex.: MVC, Microserviços).
 - **Modelos C4**: Detalhamento da arquitetura em níveis: Contexto, Contêineres, Componentes, Código.
 
-### 3.2. Stack Tecnológica
+### 3.3. Stack Tecnológica
 
 - **Linguagens de Programação**: Justificativa para a escolha de linguagens específicas.
 - **Frameworks e Bibliotecas**: Frameworks e bibliotecas a serem utilizados.
 - **Ferramentas de Desenvolvimento e Gestão de Projeto**: Ferramentas para desenvolvimento e gestão do projeto.
 ... qualquer outra informação referente a stack tecnológica ...
 
-### 3.3. Considerações de Segurança
+### 3.4. Considerações de Segurança
 
 Análise de possíveis questões de segurança e como mitigá-las.
 
