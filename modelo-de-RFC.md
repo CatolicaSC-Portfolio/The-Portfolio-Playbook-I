@@ -59,3 +59,9 @@ Listagem de todas as fontes de pesquisa, frameworks, bibliotecas e ferramentas q
 ## 6. Apêndices (Opcionais)
 
 Informações complementares, dados de suporte ou discussões detalhadas fora do corpo principal.
+## 7. Avaliações de Professores
+
+Adicionar três páginas no final do RFC para que os Professores escolhidos possam fazer suas considerações:
+Considerações do Professor(a):
+Considerações do Professor(a):
+Considerações do Professor(a):
