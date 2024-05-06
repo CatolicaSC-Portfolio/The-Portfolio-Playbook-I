@@ -1,6 +1,6 @@
 # Recomendações para Avaliação das Propostas de Portfólio
 
-Caro Professor/a, no início do semestre 2024-1, foi definido na reunião de colegiado do curso que a disciplina de Portfólio seria dividida em duas fases: Portfólio I (sétimo período) e Portfólio II (período seguinte). Para tanto, foi organizado um conjunto de diretrizes e um RFC para que cada estudante da 7a. fase possa apresentar seu projeto de portfólio e as especificações do domínio de problema. Ao concluir o RFC, os estudantes vão procurar três Professores para avaliar o projeto proposto. 
+Caro Professor/a, no início do semestre 2024-1, foi definido na reunião de colegiado do curso que a disciplina de Portfólio seria dividida em duas fases: Portfólio I (sétimo período) e Portfólio II (período seguinte). Para tanto, foram organizados um conjunto de diretrizes e um RFC para que cada estudante da 7a. fase possa apresentar seu projeto de portfólio e as especificações do domínio de problema. Ao concluir o RFC, os estudantes buscarão três Professores para avaliar o projeto proposto. 
 
 Antes de iniciar a avaliação verifique o conteúdo nestes links:   
 
