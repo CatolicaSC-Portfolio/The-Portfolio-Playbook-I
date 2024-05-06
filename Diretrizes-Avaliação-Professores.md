@@ -7,3 +7,10 @@ Antes de iniciar a avaliação verifique o conteúdo nestes links:
 - [Processo de Escolha de Tema e Aprovação para Projeto de Portfólio](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/aprovacao_tema.md)
 - [Modelo de RFC para Estruturação do Tema](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)
 - [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md)
+
+Seguem os pontos a serem observados/avaliados pelos Professores para aprovação do tema e projeto: 
+- Avaliar apresentação do projeto: clareza da escrita, justificativa do projeto e objetivos (Seções 1 e 2 do [RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md));
+- Avaliar a especificação técnica: verificar se a especificação dos requisitos e os requisitos (Seção   3.1) atendem o escopo da solução/produto proposto na Seções 2.1. e 2.2 do RFC);
+- Avaliar se a arquitetura (Seção 3.2 do RFC) é factível para o projeto e se atendem aos requisitos (Seção 3.1);
+- Avaliar se as escolhas das tecnologias (seção 3.3 do RFC) estão em consonância com o escopo da solução/produto proposto e com as recomendações do [portfólio-directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md);
+- Por fim, verificar se questões de segurança são abordadas para o projeto (Seção 3.4 do RFC).   
