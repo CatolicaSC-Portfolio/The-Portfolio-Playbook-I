@@ -13,4 +13,8 @@ Seguem os pontos a serem observados/avaliados pelos Professores para aprovação
 - Avaliar a especificação técnica: verificar se a especificação dos requisitos e os requisitos (Seção   3.1) atendem o escopo da solução/produto proposto na Seções 2.1. e 2.2 do RFC);
 - Avaliar se a arquitetura (Seção 3.2 do RFC) é factível para o projeto e se atendem aos requisitos (Seção 3.1);
 - Avaliar se as escolhas das tecnologias (seção 3.3 do RFC) estão em consonância com o escopo da solução/produto proposto e com as recomendações do [portfólio-directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md);
-- Por fim, verificar se questões de segurança são abordadas para o projeto (Seção 3.4 do RFC).   
+- Por fim, verificar se questões de segurança são abordadas para o projeto (Seção 3.4 do RFC).
+
+  Ao avaliar esses pontos, cada Professor atribuirá uma nota (**1 à 10**) seguida de sua assinatura no próprio RFC, já que os estudantes vão entregar o RFC impresso para avaliação. Além disso, haverá espaço para comentários e recomendações.
+
+..Bom Trabalho!..  
