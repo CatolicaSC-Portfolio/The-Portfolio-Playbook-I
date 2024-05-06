@@ -17,4 +17,4 @@ Seguem os pontos a serem observados/avaliados pelos Professores para aprovação
 
   Ao avaliar esses pontos, cada Professor atribuirá uma nota (**1 à 10**) seguida de sua assinatura no próprio RFC, já que os estudantes vão entregar o RFC impresso para avaliação. Além disso, haverá espaço para comentários e recomendações.
 
-..Bom Trabalho!..  
+:Bom Trabalho!: 
