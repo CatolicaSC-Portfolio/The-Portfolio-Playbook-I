@@ -17,4 +17,35 @@ Seguem os pontos a serem observados/avaliados pelos Professores para aprovação
 
 Ao avaliar esses pontos, cada Professor atribuirá uma nota única (**1 à 10**) seguida de sua assinatura no próprio RFC, já que os estudantes vão entregar o RFC impresso para avaliação. Além disso, haverá espaço para comentários e recomendações.
 
+
+
+
                                                                              **Bom Trabalho!**
+
+# Anexo - Escala
+
+Pontuação de 0 a 10 (com intervalos de 0,5)
+Em qualquer nota pode ser indicado ajustes obrigatório ou sugestões. Abaixo de 7 indica necessidade de ajustes obrigatórios antes da continuação do projeto.
+
+| Nota  | Interpretação                            | Critério principal                                                                 |
+|-------|------------------------------------------|-------------------------------------------------------------------------------------|
+| **10**  | **Excepcional**                          | Clareza, profundidade e originalidade acima da média. Inspira confiança e excelência. |
+| **9**   | **Excelente**                            | Alta qualidade, bem escrita, clara e coerente. Atende completamente às diretrizes.  |
+| **8.5** | **Muito Boa**                            | Pequenos ajustes possíveis. Proposta madura, com justificativa e objetivos claros.  |
+| **8**   | **Boa**                                  | Viável e bem escrita, mas com margem para melhorias pontuais.                       |
+| **7.5** | **Aprovada**                             | Viável. Atende aos requisitos mínimos com consistência razoável.                    |
+| **7**   | **Limite para aprovação**                | Atenção! Proposta superficial ou com lacunas críticas. Recomendável revisão.        |
+| **6 e 6.5** | **Revisar**                              | RFC com potencial, mas com estrutura ou justificativa insuficiente.                 |
+| ** Abaixo de 6** | **Reapresentar**                  | Reprovada nesta etapa. Tema desalinhado, incoerente ou inviável.                    |
+
+
+
+### Critérios que devem orientar a avaliação
+
+1. **Contexto** – A motivação do projeto está clara e conectada com um problema real?
+2. **Justificativa** – O "porquê" da proposta está bem embasado?
+3. **Objetivos** – São claros, mensuráveis e realistas?
+4. **Tema** – Está bem definido e alinhado com o portfólio?
+5. **Problemas a resolver** – Foram identificados de forma concreta?
+6. **Adequação ao modelo** – Segue o [modelo de RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)?
+7. **Escrita e estrutura** – O texto é coeso, organizado e bem escrito?
