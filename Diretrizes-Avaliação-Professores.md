@@ -18,10 +18,6 @@ Seguem os pontos a serem observados/avaliados pelos Professores para aprovação
 Ao avaliar esses pontos, cada Professor atribuirá uma nota única (**1 à 10**) seguida de sua assinatura no próprio RFC, já que os estudantes vão entregar o RFC impresso para avaliação. Além disso, haverá espaço para comentários e recomendações.
 
 
-
-
-                                                                             **Bom Trabalho!**
-
 # Anexo - Escala
 
 Pontuação de 0 a 10 (com intervalos de 0,5)
@@ -49,3 +45,9 @@ Em qualquer nota pode ser indicado ajustes obrigatório ou sugestões. Abaixo de
 5. **Problemas a resolver** – Foram identificados de forma concreta?
 6. **Adequação ao modelo** – Segue o [modelo de RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)?
 7. **Escrita e estrutura** – O texto é coeso, organizado e bem escrito?
+
+
+
+
+ **Bom Trabalho!**
+
