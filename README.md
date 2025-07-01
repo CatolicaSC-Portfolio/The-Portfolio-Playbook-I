@@ -12,7 +12,7 @@ The-Portfolio-Playbook-I
 
 
 # GPT de Apoio
-- [Pré-analise da RFC](https://chatgpt.com/share/6863c920-8870-8006-bcf2-07762533adec)
+- [Pré-analise da RFC](https://chatgpt.com/g/g-6863c3a91e1881919572856ff853bf1f-pre-analise-de-projetos-rfc-da-catolica?model=o3)
 
 
 # Links
