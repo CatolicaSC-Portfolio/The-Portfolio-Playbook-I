@@ -10,9 +10,6 @@ The-Portfolio-Playbook-I
 - [Diretrizes-Avaliação-Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/Diretrizes-Avaliação-Professores.md)
 
 
-# Visão Geral
-
-<img width="930" alt="image" src="https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/assets/1449952/2eecc157-2f91-4e49-9fc8-532d54f1aa17">
 
 
 
