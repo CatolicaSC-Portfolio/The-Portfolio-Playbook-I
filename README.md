@@ -11,7 +11,8 @@ The-Portfolio-Playbook-I
 
 
 
-
+# GPT de Apoio
+- [Pré-analise da RFC](https://chatgpt.com/share/6863c920-8870-8006-bcf2-07762533adec)
 
 
 # Links
