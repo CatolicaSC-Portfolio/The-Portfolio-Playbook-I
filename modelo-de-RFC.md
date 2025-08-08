@@ -61,12 +61,12 @@ Descrição detalhada da proposta, contemplando requisitos, arquitetura, tecnolo
 - Relacione todas as legislações, regulamentações e normas técnicas aplicáveis ao projeto, descrevendo brevemente como serão atendidas.
 - Exemplos:
   - [LGPD – Lei Geral de Proteção de Dados](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
-  - [HIPAA – Health Insurance Portability and Accountability Act](https://www.hhs.gov/hipaa/index.html)
-  - [WCAG – Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
-  - [ESRB – Classificação de Jogos](https://www.esrb.org/) / [PEGI](https://pegi.info/)
-  - [ISO/IEC 12207 – Ciclo de Vida de Software](https://www.iso.org/standard/63712.html)
-  - [ISO/IEC 25010 – Qualidade de Software](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
-
+    - Coletar apenas dados necessários (nome, contato, dados do imóvel).
+    - Evitar dados sensíveis desnecessários.
+    - Solicitar consentimento explícito e exibir política de privacidade clara.
+    - Permitir acesso, correção e exclusão de dados pelo usuário.
+    -   ...
+   
 ## 4. Próximos Passos
 
  - Descrição dos passos seguintes após a conclusão do documento, com uma visão geral do cronograma para Portfólio I e II.
