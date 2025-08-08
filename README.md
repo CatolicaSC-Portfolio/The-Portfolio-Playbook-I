@@ -1,3 +1,7 @@
+# Início
+A disciplina de Portfólio da Católica SC tem como objetivo guiar o estudante no desenvolvimento de um projeto autoral, alinhado às demandas do mercado e às competências adquiridas ao longo do curso. Estruturada para simular um ciclo real de entrega de software, ela envolve desde a definição e aprovação do tema — formalizada por meio de um documento RFC avaliado por professores — até a apresentação pública no Poster + Demo Day, momento em que as soluções são demonstradas em ambiente produtivo e avaliadas por critérios técnicos e funcionais. O processo contempla diferentes linhas de projeto (Web, Mobile, Jogos, IA e IoT), cada uma com requisitos obrigatórios, boas práticas recomendadas e diferenciais que podem elevar a qualidade e a visibilidade do trabalho. Mais do que cumprir requisitos técnicos, o Portfólio desafia o aluno a integrar conhecimento, criatividade, responsabilidade ética e conformidade com legislações e normas aplicáveis, resultando em um produto funcional, relevante e de alto nível profissional.
+
+
 # Processo de Escolha de Tema e Aprovação para Projeto de Portfólio
 
 O Processo de Escolha de Tema e Aprovação para o Projeto de Portfólio é pautado no documento de Request for Comments (RFC), no qual cada estudante apresenta seu tema de Portfólio, 
@@ -32,13 +36,13 @@ Com a aprovação inicial, o estudante iniciará os trabalhos no projeto, levand
 O processo descrito visa assegurar que cada projeto de portfólio desenvolvido pelos estudantes seja de alta qualidade, relevante e alinhado com as metas educacionais do curso. Ao longo do semestre, espera-se que os estudantes aprofundem suas pesquisas, refinem suas propostas e desenvolvam projetos que não apenas atendam, mas superem as expectativas do curso.
 
 
-
 # Outros Docs
 
 - [Modelo de RFC para Estruturação do Tema](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)
 - [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md)
 - [Diretrizes-Avaliação-Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/Diretrizes-Avaliação-Professores.md)
-Link para [Playbook de Portfólio II](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II)
+- Link para [Playbook de Portfólio II](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II)
+- [Normas e Regulamentações](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/normas_regulacoes.md)
 
 
 # GPT de Apoio
