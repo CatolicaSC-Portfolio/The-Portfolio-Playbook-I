@@ -17,40 +17,61 @@ Breve descrição do conteúdo do documento, incluindo o propósito do projeto e
 
 ## 2. Descrição do Projeto
 
-- **Tema do Projeto**: Detalhes do tema, incluindo o produto ou ferramenta a ser desenvolvido.
-- **Problemas a Resolver**: Lista dos principais problemas que o projeto visa resolver.
-- **Limitações**: Delimitação dos problemas que o projeto não abordará.
+* **Linha de Projeto**: Indique a categoria do projeto (Web Apps, Aplicações Mobile, Jogos Digitais, Projetos com IA ou Projetos IoT), conforme definido no regulamento.
+* **Tema do Projeto**: Descreva de forma clara e objetiva o produto, serviço ou ferramenta a ser desenvolvido.
+* **Propósito e Uso Prático**: Explique qual problema real será resolvido e como a solução será utilizada na prática.
+* **Público-Alvo**: Defina o perfil dos usuários ou clientes potenciais que se beneficiarão da solução.
+* **Problemas a Resolver**: Liste de forma objetiva os principais problemas ou necessidades que o projeto pretende atender.
+* **Diferenciação/Ineditismo**: Destaque o que torna a proposta única em relação a soluções existentes, mesmo quando o tema é semelhante a outros projetos.
+* **Limitações**: Especifique o que o projeto **não** abrangerá, evitando expectativas incorretas.
+* **Normas e Legislações Aplicáveis**: Liste normas, leis e diretrizes relevantes ao contexto do projeto (ex.: LGPD, HIPAA, WCAG, ESRB/PEGI), indicando como serão observadas.
+* **Métricas de Sucesso**: Apresente critérios iniciais para medir o desempenho e a efetividade do projeto (ex.: tempo de resposta, número de usuários atendidos, taxa de acerto do modelo de IA).
 
 ## 3. Especificação Técnica
 
-Descrição detalhada da proposta, incluindo requisitos de software, protocolos, algoritmos, procedimentos, formatos de dados, etc.
+Descrição detalhada da proposta, contemplando requisitos, arquitetura, tecnologias, segurança e aderência aos critérios obrigatórios da linha de projeto escolhida.
 
 ### 3.1. Requisitos de Software
-- Apresentar os requisitos do tema proposto.
-- **Lista de Requisitos:** Apresentar uma lista contendo os Requisitos Funcionais (RF) e Não-Funcionais (RNF).
-- **Representação dos Requisitos:** Representar os RFs por meio de um Diagrama de Casos de Uso (UML).
+- **Requisitos Funcionais (RF)**: Liste de forma clara as funcionalidades que o sistema deverá oferecer.
+- **Requisitos Não-Funcionais (RNF)**: Inclua requisitos de desempenho, segurança, usabilidade, escalabilidade, disponibilidade, entre outros.
+- **Representação dos Requisitos**: Inclua um Diagrama de Casos de Uso (UML) ou outra representação visual que facilite o entendimento.
+- **Aderência aos Requisitos da Linha de Projeto**: Indique como cada requisito está alinhado aos itens “Obrigatório Atender” definidos para a linha de projeto (Web, Mobile, Jogos, IA ou IoT).
 
 ### 3.2. Considerações de Design
-
-- Discussão sobre as escolhas de design, incluindo alternativas consideradas e justificativas para as decisões tomadas.
-- **Visão Inicial da Arquitetura**: Descrição dos componentes principais e suas interconexões.
-- **Padrões de Arquitetura**: Indicação de padrões específicos utilizados (ex.: MVC, Microserviços).
-- **Modelos C4**: Detalhamento da arquitetura em níveis: Contexto, Contêineres, Componentes, Código.
+- **Visão Inicial da Arquitetura**: Apresente os principais componentes e suas interações.
+- **Padrões de Arquitetura**: Informe padrões adotados (ex.: [MVC](https://en.wikipedia.org/wiki/Model–view–controller), [Microserviços](https://microservices.io/), [MVVM](https://en.wikipedia.org/wiki/Model–view–viewmodel), Arquitetura em Camadas).
+- **Modelos C4**: Utilize os quatro níveis ([C4 Model](https://c4model.com/)) quando aplicável.
+- **Mockups das Telas Principais**: Apresente protótipos visuais das telas mais relevantes, mostrando navegação, disposição de elementos e principais interações do usuário. Esses mockups podem ser feitos em ferramentas como Figma, Adobe XD ou similares, e devem refletir a identidade visual e usabilidade prevista para o produto.
+- **Decisões e Alternativas Consideradas**: Justifique escolhas de design, documentando alternativas avaliadas.
+- **Critérios de Escalabilidade, Resiliência e Segurança**: Descreva como a solução será projetada para suportar crescimento, lidar com falhas e manter segurança.
 
 ### 3.3. Stack Tecnológica
-
-- **Linguagens de Programação**: Justificativa para a escolha de linguagens específicas.
-- **Frameworks e Bibliotecas**: Frameworks e bibliotecas a serem utilizados.
-- **Ferramentas de Desenvolvimento e Gestão de Projeto**: Ferramentas para desenvolvimento e gestão do projeto.
-... qualquer outra informação referente a stack tecnológica ...
+- **Linguagens de Programação**: Liste e justifique as escolhas.
+- **Frameworks e Bibliotecas**: Detalhe e justifique a seleção.
+- **Ferramentas de Desenvolvimento e Gestão**: Inclua IDEs, sistemas de versionamento, plataformas de integração contínua, monitoramento, entre outros.
+- **Licenciamento**: Indique as licenças dos softwares e bibliotecas utilizados ([MIT](https://opensource.org/licenses/MIT), [GPL](https://www.gnu.org/licenses/gpl-3.0.html), [Apache](https://www.apache.org/licenses/), [Creative Commons](https://creativecommons.org/licenses/)).
 
 ### 3.4. Considerações de Segurança
+- **Riscos Identificados**: Liste ameaças potenciais (ex.: injeção de código, vazamento de dados, falhas de autenticação).
+- **Medidas de Mitigação**: Explique as ações planejadas para minimizar riscos (ex.: criptografia, controle de acesso, validação de entrada).
+- **Normas e Boas Práticas Seguidas**: Cite padrões como [OWASP Top 10](https://owasp.org/www-project-top-ten/), [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html), [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm) ou outros aplicáveis.
+- **Responsabilidade Ética**: Para projetos de IA ou manipulação de dados sensíveis, descreva como serão tratados vieses, privacidade e uso responsável ([UNESCO – Ética em IA](https://unesdoc.unesco.org/ark:/48223/pf0000380455), [OECD AI Principles](https://oecd.ai/en/ai-principles)).
 
-Análise de possíveis questões de segurança e como mitigá-las.
+### 3.5. Conformidade e Normas Aplicáveis
+- Relacione todas as legislações, regulamentações e normas técnicas aplicáveis ao projeto, descrevendo brevemente como serão atendidas.
+- Exemplos:
+  - [LGPD – Lei Geral de Proteção de Dados](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)
+  - [HIPAA – Health Insurance Portability and Accountability Act](https://www.hhs.gov/hipaa/index.html)
+  - [WCAG – Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+  - [ESRB – Classificação de Jogos](https://www.esrb.org/) / [PEGI](https://pegi.info/)
+  - [ISO/IEC 12207 – Ciclo de Vida de Software](https://www.iso.org/standard/63712.html)
+  - [ISO/IEC 25010 – Qualidade de Software](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
 
 ## 4. Próximos Passos
 
-Descrição dos passos seguintes após a conclusão do documento, com uma visão geral do cronograma para Portfólio I e II.
+ - Descrição dos passos seguintes após a conclusão do documento, com uma visão geral do cronograma para Portfólio I e II.
+ - Definição de Marcos: Estabelecer datas para entregas intermediárias e checkpoints.
+
 
 ## 5. Referências
 
