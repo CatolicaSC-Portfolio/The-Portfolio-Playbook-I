@@ -4,21 +4,39 @@ Caro Professor/a, no início do semestre 2024-1, foi definido na reunião de col
 
 Antes de iniciar a avaliação verifique o conteúdo nestes links:   
 
-- [Processo de Escolha de Tema e Aprovação para Projeto de Portfólio](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/aprovacao_tema.md)
+- [Processo de Escolha de Tema e Aprovação para Projeto de Portfólio](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/tree/main)
 - [Modelo de RFC para Estruturação do Tema](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)
 - [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md)
 
-Seguem os pontos a serem observados/avaliados pelos Professores para aprovação do tema e projeto: 
-1. Avaliar apresentação do projeto: clareza da escrita, justificativa do projeto e objetivos (Seções 1 e 2 do [RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md));
-2. Avaliar a especificação técnica: verificar se a especificação dos requisitos e os requisitos (Seção   3.1) atendem o escopo da solução/produto proposto na Seções 2.1. e 2.2 do RFC);
-3. Avaliar se a arquitetura (Seção 3.2 do RFC) é factível para o projeto e se atendem aos requisitos (Seção 3.1);
-4. Avaliar se as escolhas das tecnologias (seção 3.3 do RFC) estão em consonância com o escopo da solução/produto proposto e com as recomendações do [portfólio-directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md);
-5. Por fim, verificar se questões de segurança são abordadas para o projeto (Seção 3.4 do RFC).
+## Pontos a serem observados na avaliação
 
-Ao avaliar esses pontos, cada Professor atribuirá uma nota única (**1 à 10**) seguida de sua assinatura no próprio RFC, já que os estudantes vão entregar o RFC impresso para avaliação. Além disso, haverá espaço para comentários e recomendações.
+1. **Apresentação do Projeto**  
+   - Clareza da escrita, justificativa e objetivos (Seções 1 e 2 do RFC).  
+   - Contexto alinhado a um problema real e relevante.  
+
+2. **Descrição e Requisitos**  
+   - Especificação técnica (Seção 3.1) consistente com o escopo descrito nas Seções 2.1 e 2.2.  
+   - Adequação aos **requisitos obrigatórios da linha de projeto** (Web Apps, Mobile, Jogos Digitais, IA, IoT).  
+
+3. **Arquitetura**  
+   - Avaliar se a arquitetura (Seção 3.2) é factível e cobre os requisitos definidos.  
+   - Uso adequado de diagramas (UML, C4 Model, etc.).  
+
+4. **Tecnologias**  
+   - Escolhas tecnológicas (Seção 3.3) compatíveis com o escopo e alinhadas ao **Portfólio Directions**.  
+
+5. **Segurança e Conformidade**  
+   - Considerações de segurança (Seção 3.4) e aderência a normas e legislações aplicáveis(Seção 3.5)(ex.: **LGPD**, **WCAG**, **HIPAA** se relevante).  
 
 
-# Anexo - Escala
+
+## Registro da Avaliação
+
+- Cada professor atribuirá **uma nota única** de 0 a 10 (intervalos de 0,5) e assinará no próprio RFC.  
+- Espaço para comentários e recomendações deverá ser utilizado para ajustes e observações.  
+- Notas **abaixo de 7** indicam necessidade de ajustes obrigatórios antes da continuação.  
+
+## Anexo - Escala
 
 Pontuação de 0 a 10 (com intervalos de 0,5)
 Em qualquer nota pode ser indicado ajustes obrigatório ou sugestões. Abaixo de 7 indica necessidade de ajustes obrigatórios antes da continuação do projeto.
@@ -36,15 +54,16 @@ Em qualquer nota pode ser indicado ajustes obrigatório ou sugestões. Abaixo de
 
 
 
-### Critérios que devem orientar a avaliação
+## Critérios Orientadores
 
-1. **Contexto** – A motivação do projeto está clara e conectada com um problema real?
-2. **Justificativa** – O "porquê" da proposta está bem embasado?
-3. **Objetivos** – São claros, mensuráveis e realistas?
-4. **Tema** – Está bem definido e alinhado com o portfólio?
-5. **Problemas a resolver** – Foram identificados de forma concreta?
-6. **Adequação ao modelo** – Segue o [modelo de RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)?
-7. **Escrita e estrutura** – O texto é coeso, organizado e bem escrito?
+- **Contexto** – Motivação clara e conectada a um problema real.  
+- **Justificativa** – Fundamentação sólida do “porquê” da proposta.  
+- **Objetivos** – Claros, mensuráveis e realistas.  
+- **Tema** – Bem definido e enquadrado em uma linha de projeto.  
+- **Problemas a Resolver** – Identificação concreta e relevante.  
+- **Adequação ao Modelo** – Segue o [modelo de RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)?
+- **Escrita e Estrutura** – Texto coeso, organizado e bem escrito.  
+
 
 
 
