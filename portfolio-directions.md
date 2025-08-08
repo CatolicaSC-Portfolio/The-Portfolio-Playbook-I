@@ -12,6 +12,8 @@ A tabela abaixo procura direcionar as decisões dos projetos.
 | Tema         | Sistema de cardápio online/QRCode                                    | 🚫 Não Usar | Soluções simples para restaurantes, mas com muitas alternativas disponíveis no mercado.                |
 | Tema         | Sistema de controle de estoque                                       | 🚫 Não Usar | Soluções simples, mas com muitas alternativas disponíveis no mercado.                |
 | Tema         | Sistema de Tele-entrega                                              | 🚫 Não Usar | Serviços de entrega são populares, mas altamente competitivos e regulados.                             |
+| Tema         | Sistema de Gestão Financeira com ou sem IA                                              | 🚫 Não Usar | Tema recorrente e já excessivamente explorado |
+| Tema         | Soluções que utilizam IA com prompt sem incorporar fetivamente IA    | 🚫 Não Usar | Tema recorrente e já excessivamente explorado |
 | Ferramenta   | Notepad++                                                            | ⚠️ Evitar   | Editor de texto leve, popular entre desenvolvedores, mas com limitações para projetos complexos.       |
 | Ferramenta   | Documentação: Notion, Obsidian                                       | ⚠️ Evitar   | Ferramentas versáteis para notas e documentação, mas menos integradas ao fluxo de desenvolvimento.     |
 | Ferramenta   | Ferramentas de monitoramento de performance e observabilidade - Ex: Zabbix, Prometheus, Grafana |  ✅ Preferir | Opções open-source para monitoramento, com necessidade de configuração e manutenção.                   |
@@ -33,12 +35,12 @@ A tabela abaixo procura direcionar as decisões dos projetos.
 | Stack        | Linguagem: Java, C#, Python, C++, Javascript, Typescript             | ✅ Preferir  | Linguagens fundamentais com amplo suporte, comunidades ativas e ecossistemas ricos.                  |
 | Tema         | Solução que utilizem apis de LLMs públicas/comerciais                | ✅ Preferir  | Uso de APIs de linguagem de máquina oferece oportunidades para inovação em diversos campos.          |
 | Tema         | Sistema de gestão de processos (ERP, Contábil, Comercial, ...)       | ✅ Preferir  | Ferramentas essenciais para a automação e eficiência de processos empresariais.                      |
-| Processo         | Aplicar no código-fonte YAGNI, KISS e DRY                            | ✅ Preferir  | https://bit.ly/3WFa96N   |
-| Processo         | APlicar SOLID e Clean Code                                           | ✅ Preferir  | SOLID - https://bit.ly/3tbawbD  e Clean Code - https://bit.ly/3E7AaDx |
+| Processo         | Aplicar SOLID e Clean Code                                           | ✅ Preferir  | SOLID - https://bit.ly/3tbawbD  e Clean Code - https://bit.ly/3E7AaDx |
+| Stack        | Dados: Redis e Memcached                                             | ✅ Preferir  | Sistemas de armazenamento em memória para cache e sessões, essenciais para aplicações de alta performance. |
+| Processo         | Utilizar MCP (Model Context Protocol) com protocolo enter aplicações e modelos LLM | ✅ Preferir  | Assunto pouco explorado.|
 | Ferramenta   | Documentação em Wiki junto com repositório (Wiki do Github, GitLabs, ...) | 🔑 Obrigatório  | Facilita o acesso e a colaboração na documentação de projetos.                                        |
 | Ferramenta   | Deploy via CI/CD (Github Actions, Jenkins, ...)                      | 🔑 Obrigatório  | Automatiza o processo de deploy, melhorando a eficiência e a confiabilidade.                          |
 | Processo     | TDD                                                                  | 🔑 Obrigatório  | Prática de escrever testes antes do código, garantindo qualidade e reduzindo bugs.   
-| Stack        | Dados: Redis e Memcached                                             | 🔍 Explorar | Sistemas de armazenamento em memória para cache e sessões, essenciais para aplicações de alta performance. |
 | Stack        | Dados: InfluxDB e TimescaleDB.                                       | 🔍 Explorar | Bancos de dados de séries temporais, úteis para análise de dados em tempo real.                      |
 | Stack        | Dados: Elasticsearch                                                 | 🔍 Explorar | Motor de busca e análise, ideal para pesquisa de texto e análise de grandes volumes de dados. |
 | Stack        | Linguagem: Rust, Go, Elixir, Dart                                    | 🔍 Explorar | Linguagens modernas oferecendo segurança, performance e concorrência para diversos tipos de projetos.|
