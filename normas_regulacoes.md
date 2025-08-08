@@ -1,12 +1,13 @@
-Normas e Regulamentações Aplicáveis aos Projetos de Portfólio
-1. Introdução
+# Normas e Regulamentações Aplicáveis aos Projetos de Portfólio
+## 1. Introdução
 No desenvolvimento de produtos viáveis e alinhados às expectativas do mercado, não basta entregar uma solução tecnicamente funcional — é essencial que o projeto esteja em conformidade com leis, normas e boas práticas aplicáveis ao seu contexto. Ignorar esses aspectos pode comprometer a viabilidade do produto, gerar riscos legais, dificultar a publicação em lojas e, em casos mais graves, inviabilizar seu uso real por clientes ou empresas.
 
 Para a disciplina de Portfólio, observar essas normas faz parte do esforço de desenvolvimento profissional: garante que o trabalho não apenas demonstre domínio técnico, mas também maturidade na entrega, considerando segurança, privacidade, acessibilidade, ética e regulamentações específicas de cada domínio.
 
 A relação a seguir apresenta normas essenciais (Core) e complementares que servem como referência para os alunos. Elas devem ser consultadas e aplicadas conforme a natureza e a área de atuação do projeto, seja ele um aplicativo, jogo, sistema web, solução de inteligência artificial ou produto IoT.
 
-2. Normas e Regulamentações
+## 2. Normas e Regulamentações
+
 | Categoria          | Norma / Lei                                                                         | Aplicação Prática no Portfólio                                                                                                                                                                     | Link de Referência                                                                                                                                                                                                |
 | ------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Core**           | **Proteção de dados e confidencialidade – LGPD** (Lei nº 13.709/2018)               | Garante o tratamento adequado de dados pessoais e sensíveis, incluindo consentimento, minimização de dados e segurança da informação. Aplica-se a qualquer projeto que manipule dados de usuários. | [LGPD – Lei 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)                                                                                                                 |
@@ -17,23 +18,16 @@ A relação a seguir apresenta normas essenciais (Core) e complementares que ser
 | **Complementares** | **Proteção contra discriminação e uso ético de IA** (LGPD + Princípios UNESCO)      | Evitar vieses algorítmicos, práticas discriminatórias e decisões automatizadas injustas.                                                                                                           | [LGPD – Art. 6º, IX](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm) \| [UNESCO – Ética em IA](https://unesdoc.unesco.org/ark:/48223/pf0000380455)                                       |
 | **Complementares** | **Boas práticas de desenvolvimento seguro** (OWASP, ISO/IEC 27001, 27002)           | Proteção contra falhas de segurança como injeção de código, vazamento de dados e autenticação fraca.                                                                                               | [OWASP Top 10](https://owasp.org/www-project-top-ten/) \| [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)                                                                             |
 | **Complementares** | **Prontuário eletrônico e registros médicos** (Lei nº 13.787/2018)                  | Regras para digitalização, guarda e confidencialidade de registros médicos no Brasil. Aplica-se a projetos de saúde nacionais.                                                                     | [Lei 13.787/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13787.htm)                                                                                                                        |
+                                                                                                   
+## 3. Como aplicar no desenvolvimento do Portfólio
+1. Identificar normas aplicáveis desde a fase de ideação e RFC, conforme o tipo de projeto e seu público-alvo.
+2. Documentar medidas de conformidade no repositório e no pôster, explicando como requisitos legais foram atendidos.
+3. Garantir segurança e privacidade por meio de arquitetura adequada, criptografia, controle de acesso e anonimização de dados sensíveis.
+4. Respeitar licenças e direitos autorais de qualquer recurso externo utilizado.
+5. Incorporar boas práticas e acessibilidade como parte do esforço de qualidade, não como complemento opcional.
 
-3. Como aplicar no desenvolvimento do Portfólio
-Identificar normas aplicáveis desde a fase de ideação e RFC, conforme o tipo de projeto e seu público-alvo.
-
-Documentar medidas de conformidade no repositório e no pôster, explicando como requisitos legais foram atendidos.
-
-Garantir segurança e privacidade por meio de arquitetura adequada, criptografia, controle de acesso e anonimização de dados sensíveis.
-
-Respeitar licenças e direitos autorais de qualquer recurso externo utilizado.
-
-Incorporar boas práticas e acessibilidade como parte do esforço de qualidade, não como complemento opcional.
-
-4. Benefícios de seguir essas diretrizes
-Aumenta a credibilidade do projeto perante banca e mercado.
-
-Facilita publicação e uso real da solução.
-
-Reduz riscos legais e de segurança.
-
-Demonstra profissionalismo e maturidade técnica.
+## 4. Benefícios de seguir essas diretrizes
+- Aumenta a credibilidade do projeto perante banca e mercado.
+- Facilita publicação e uso real da solução.
+- Reduz riscos legais e de segurança.
+- Demonstra profissionalismo e maturidade técnica.
