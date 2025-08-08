@@ -1,5 +1,13 @@
 #Direcionamentos para Portfólio. 
 
+Atente para o portfolio directions de cada linha
+- [Web Apps](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions-webapp.md)
+- [Aplicações Mobile](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions-mobile.md)
+- [Jogos Digitais](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions-jogosdigitais.md)
+- [Projetos com Inteligência Artificial (IA)](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions-ia.md)
+- [Projetos de Internet das Coisas (IoT)](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions-iot.md)
+
+
 A tabela abaixo procura direcionar as decisões dos projetos. 
 
 | Quadrante    | Nome                                                                 | Ação        | Descrição                                                                                              |
