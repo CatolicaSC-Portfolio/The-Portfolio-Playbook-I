@@ -40,7 +40,7 @@ O processo descrito visa assegurar que cada projeto de portfólio desenvolvido p
 
 - [Modelo de RFC para Estruturação do Tema](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)
 - [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md)
-- [Diretrizes-Avaliação-Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/Diretrizes-Avaliação-Professores.md)
+- [Diretrizes-Avaliação-Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/diretrizes-avaliacao-professores.md)
 - Link para [Playbook de Portfólio II](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II)
 - [Normas e Regulamentações](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/normas_regulacoes.md)
 
