@@ -1,4 +1,4 @@
-#Direcionamentos para Portfólio. 
+# Direcionamentos para Portfólio. 
 
 Atente para o portfolio directions de cada linha
 - [Web Apps](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions-webapp.md)
