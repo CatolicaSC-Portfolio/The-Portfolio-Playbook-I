@@ -1,38 +1,61 @@
-## Linha de Projeto – Projetos IoT (Internet das Coisas)
+# Linha de Projeto – Projetos IoT (Internet das Coisas)
 
-### Obrigatório atender
-- Apresentar especificações do escopo do projeto contendo:
-  - Requisitos da aplicação IoT representados por **Diagrama Hierárquico de Requisitos (SySML)**.
-  - **Diagrama de Arquitetura** (C4 Model ou modelo em camadas com: camada de sensores/atuadores, camada de rede, camada de processamento de dados e camada de aplicação).  
-- Implementar requisitos em conformidade com a arquitetura definida.  
-- Código-fonte disponível em repositório junto com os artefatos de especificação.  
-- Incluir a internet como meio de comunicação, mesmo em implementações embarcadas.  
-- Garantir interação via web ou mobile como parte da aplicação IoT:
-  - Interação direta (configuração/manipulação do dispositivo).
-  - Interação indireta (consumo de dados gerados).  
+## O que é obrigatório atender
+Requisitos mínimos e obrigatórios para habilitação ao Poster + Demo Day.
 
-### Desejável atender
-- Especificação esquemática de hardware, portas (lógica/digital), conectividade, componentes e restrições (Diagramas de Blocos e Blocos Internos – SySML).  
-- Escolha de protocolos de comunicação adequados ao escopo (ex.: MQTT, CoAP, LoRaWAN), evitando uso genérico de HTTP quando houver opções mais eficientes.  
+- Além dos descritivos exigidos no RFC, é obrigatório apresentar especificações do escopo do projeto contendo:
+  - Requisitos da aplicação IoT, que podem ser representados por **Diagrama Hierárquico de Requisitos (SySML)** e **Diagrama de Arquitetura** (C4 Model ou modelo em camadas contendo: camada de sensores/atuadores, camada de rede, camada de processamento de dados e camada de aplicação).  
+  - Tais diagramas devem ser descritos e fundamentados.
+- Implementação dos requisitos em consonância com a arquitetura aplicada ao domínio do problema abordado.
+- Código-fonte no repositório do projeto, assim como os artefatos de especificação.
+- Não restringir a implementação embarcada: é necessário incluir a **internet** como meio de comunicação.
+- Mesmo que simplificada, é fundamental a **interação via web/mobile** (camada de aplicação) como parte da aplicação IoT, seja:
+  - Interação direta (ex.: manipular configuração de dispositivo);
+  - Interação indireta (ex.: consumo de dados oriundos da aplicação IoT).  
 
-### Diferencial
-- Camada de Aplicação utilizando a solução IoT via aplicação web ou mobile.  
-- Utilização de dados IoT em camada adicional para análise de dados e dashboards.  
-- Integração de modelos de aprendizado de máquina (predição/classificação).  
-- Implementação de camada de segurança com ao menos uma prática de cibersegurança (conforme demanda do escopo).  
-- Integração com sistemas externos.  
+---
 
-### Deve ser evitado
-- Uso de plataformas IoT com camadas prontas que limitem personalização.  
-- Simulação de comportamentos apenas com LEDs na falta de componentes, sem demonstrar aplicação real.  
+## O que é desejável atender
+Melhora a qualidade do projeto. Fortemente recomendado, mas não elimina se ausente.
 
-### Não pode ter
-- Apenas simulação, sem implementação real dos requisitos.  
-- Escopo simplista (ex.: acender lâmpada, ligar ar-condicionado sem contexto avançado).  
-- Uso de projetos prontos sem modificações significativas.  
-- Apenas implementação embarcada sem conectividade à internet.  
+- Especificação esquemática de hardware, portas (lógica/digital), conectividade, componentes e restrições (**Diagramas de Blocos e Blocos Internos, SySML**).
+- Escolha de protocolos de comunicação aderentes ao escopo do projeto.  
+  - Por exemplo, ao invés de utilizar o protocolo HTTP como padrão, identificar outro que melhor satisfaça os requisitos da aplicação.
 
-### Régua de Avaliação
-- **Aprovado para apresentação**: Atende a todos os itens “Obrigatório atender” + parte dos “Desejável atender”.  
-- **Aprovado com Diferencial**: Atende obrigatórios + desejáveis e ao menos um item de “Diferencial”, sem conter itens de “Deve ser evitado”.  
-- **Reprovado**: Não atende obrigatórios ou apresenta itens proibidos.
+---
+
+## O que é um diferencial
+Características que elevam o nível do projeto e podem gerar destaque e convites.
+
+- Camada de Aplicação contendo a utilização da aplicação IoT via aplicação Web ou Mobile.
+- Utilização de dados oriundos da aplicação IoT em uma camada adicional contendo análise de dados e dashboards ou algum modelo de aprendizagem de máquina (predição/classificação).
+- Camada de segurança com a implementação de ao menos uma prática de cibersegurança (conforme demanda do escopo do projeto).
+- Integração com sistema externo à aplicação IoT.
+
+---
+
+## O que deve ser evitado
+Más práticas que reduzem a percepção de qualidade, mesmo em projetos funcionais.
+
+- Plataformas IoT com camadas prontas para utilização.
+- Representar/simular comportamentos via utilização de LEDs, quando da falta de componentes.
+
+---
+
+## O que não pode ter
+Erros graves que causam desclassificação ou reprovação direta.
+
+- Apenas a simulação dos requisitos em detrimento da implementação.
+- Aplicações IoT com escopo simplista, por exemplo: acender uma lâmpada, ligar um ar-condicionado, entre outros dessa natureza.
+- Utilizar escopo de projetos prontos.
+- Apenas a implementação embarcada.
+
+---
+
+## Régua de Avaliação
+Define os níveis de qualidade do projeto, critérios de aprovação e acesso aos eventos de destaque.
+
+- **Aprovado para apresentação**: Banner, projeto com escopo contendo os requisitos mínimos e obrigatórios  
+  = Itens *“obrigatório atender”* (têm que ter) + *“desejável atender”*.
+- **Aprovado com Diferencial**: Banner, convite para Banca Técnica/Seminário e Artigo, projeto que contempla os itens *“obrigatório atender”* + *“desejável atender”* e ao menos **+1** dos itens *“é um diferencial”*, **e** não pode ter *“deve ser evitado”*.
+- Caso contrário, o projeto **não será aprovado**.
