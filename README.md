@@ -63,9 +63,9 @@ Com a RFC aprovada, o estudante inicia a execução do projeto, aplicando o feed
 Garantir que cada estudante inicie seu projeto com uma base sólida, viável e bem estruturada, conectando teoria, prática e propósito.
 
 ### 🧭 Documentos de Apoio
-- [Modelo de RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)  
-- [Diretrizes de Avaliação dos Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/diretrizes-avaliacao-professores.md)  
-- [Normas e Regulamentações](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/normas.md)  
+- [Modelo de RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/modelo-de-RFC.md)
+- [Recomendação para Avaliação dos Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/diretrizes-avaliacao-professores.md)
+- [Normas e Regulamentações](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/normas.md)
 - [Pré-análise de RFC com GPT de Apoio](https://chat.openai.com/g/g-6863c3a91e1881919572856ff853bf1f-pre-analise-de-projetos-rfc-da-catolica)
 
 ---
