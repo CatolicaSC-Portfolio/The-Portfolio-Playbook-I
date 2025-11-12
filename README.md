@@ -121,9 +121,9 @@ Os projetos que mais se destacarem em **inovação**, **qualidade técnica** e *
 
 ## 🔗 Referências e Guias
 
-- [Guia de Avaliação do Demo Day](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/diretrizes-avaliacao-professores.md)
-- [Guia para Poster](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/guia_poster.md)
-- [Locais para publicação](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/locais_publicacao.md)
+- [Guia de Avaliação do Demo Day](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/Avaliacao_Poster_DemoDay.md).
+- [Guia para Poster](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/guia_poster.md).
+- [Locais para publicação](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/locais_publicacao.md).
 ---
 
 **Versão revisada e integrada (PAC 7 + PAC 8 + Portfólio)**  
