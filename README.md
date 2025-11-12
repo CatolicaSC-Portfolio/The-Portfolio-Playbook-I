@@ -86,6 +86,7 @@ Para habilitar-se à apresentação final, o projeto deve conter:
 - Link funcional da aplicação, jogo, app, IA ou solução IoT.  
 - Documentação de arquitetura, requisitos e decisões técnicas.  
 - Cumprimento dos critérios obrigatórios da linha de projeto escolhida.
+- Há outros requisitros em [Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/directions/portfolio-directions-GERAL.md). 
 
 ---
 
@@ -104,9 +105,11 @@ Os alunos apresentam:
 - Uma **demonstração funcional** do sistema em ambiente produtivo.
 
 ### 🧮 Avaliação
-- Cada projeto será avaliado por **três professores**, com formulário Likert e comentários qualitativos.  
-- A **nota final (0–10)** é a média das avaliações docentes.  
-- A comunidade acadêmica poderá atribuir **menções especiais** (como “Trabalho Escolhido pela Comunidade”).
+- Cada projeto será avaliado por
+   - **Três professores**, com formulário Likert e comentários qualitativos.
+   - Uma **quarta nota** será o resultado da média de todas as notas recebidas da comunidade durante o Demoday 
+- A **nota final (0–10)** é a média das 4 notas recebidas.  
+   comunidade acadêmica poderá atribuir **menções especiais** (como “Trabalho Escolhido pela Comunidade”).
 
 ---
 
