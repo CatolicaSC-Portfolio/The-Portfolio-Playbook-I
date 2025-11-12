@@ -1,51 +1,71 @@
 # Linha de Projeto – Web Apps
 
-
 ## O que é obrigatório atender
 Requisitos mínimos e obrigatórios para habilitação ao Poster + Demo Day.
 
-- O sistema deve estar hospedado em ambiente acessível publicamente (ex.: Vercel, Netlify, servidor institucional, etc.).
-- Deve conter funcionalidades completas e reais, conforme escopo definido no RFC.
-- Interface funcional e navegável com usabilidade básica.
-- Arquitetura de software definida (ex.: MVC, arquitetura em camadas, client-server).
-- Código-fonte disponível em repositório com histórico de commits.
-- Documentação mínima contendo: requisitos funcionais, casos de uso ou user stories, diagrama de arquitetura e instruções de deploy.
+- O sistema deve estar hospedado em ambiente acessível publicamente (ex.: AWS, GCP, Azure, Hostinger, servidor institucional).
+- Deve conter funcionalidades completas e reais, conforme o escopo definido no RFC.
+- Interface funcional, navegável e com usabilidade básica.
+- Arquitetura de software definida conforme o RFC (ex.: MVC, arquitetura em camadas, client-server).  
+  - Organização modular do código (componentes reutilizáveis, separação de responsabilidades).
+- Código-fonte disponível em repositório com histórico de commits.  
+  - Implementação de pipeline CI/CD (ex.: GitHub Actions, GitLab CI).
+- Documentação mínima contendo:
+  - requisitos funcionais;
+  - casos de uso ou user stories;
+  - diagrama de arquitetura - utilizando diagramas C4 ou equivalente;
+  - instruções de deploy.
+- Cobertura de testes unitários com TDD:
+  - 75% no backend;
+  - 25% no frontend.
+- Aplicação de ferramenta de análise estática de código e segurança (ex.: SonarQube, SonarCloud, CodeClimate).
+- Uso de ferramenta de monitoramento ou observabilidade (ex.: NewRelic, Datadog, Zabbix, Prometheus, Grafana).
+- O sistema deve contemplar **ao menos três fluxos de negócio completos**.
 
 ---
 
 ## O que é desejável atender
-Melhora a qualidade do projeto. Fortemente recomendado, mas não elimina se ausente.
+Fortemente recomendado para elevar a qualidade do projeto, mas não obrigatório.
 
-- Uso de frameworks modernos (React, Vue, Angular, etc.) com boas práticas.
+- Uso de frameworks modernos (React, Vue, Angular, etc.) com boas práticas de desenvolvimento.
 - Integração com APIs externas (REST, GraphQL).
 - Uso de banco de dados com persistência real (SQL/NoSQL).
 - Responsividade (design adaptável a diferentes tamanhos de tela).
-- Organização modular do código (componentes reutilizáveis, separação de responsabilidades).
-- Implementação de rotas, autenticação e controle de sessão.
-- Aplicação de testes básicos (unitários ou de integração).
-- Uso de ferramentas de versionamento (branches, pull requests, issues).
+- Aplicação de testes de integração.
+- Adoção de práticas de segurança (ex.: HTTPS, validação de entradas).
+- Estratégias de cache (ex.: Nginx, Redis, Memcached).
+- Uso de containerização (ex.: Docker, Podman).
 
 ---
 
 ## O que é um diferencial
-Características que elevam o nível do projeto e podem gerar destaque e convites.
+Aspectos que elevam o nível do projeto e podem gerar destaque e convites.
 
-- Pipeline CI/CD (ex.: GitHub Actions, GitLab CI).
-- Autenticação robusta (OAuth2, login social, autenticação multifator).
-- Dashboards com visualização de dados (charts, relatórios dinâmicos).
-- Camada de segurança implementada (JWT, proteção contra XSS/CSRF, HTTPS, validação de entrada).
+- Autenticação robusta (OAuth2, login social com Google ou Facebook, autenticação multifator).
+- Dashboards com visualizações de dados (gráficos, relatórios dinâmicos).
+- Implementação de camada de segurança (ex.: JWT, proteção contra XSS/CSRF).
 - Suporte multilíngue.
-- Design system ou biblioteca de componentes personalizados.
-- Avaliações com usuários ou testes de usabilidade com feedback documentado.
+- Design System ou biblioteca de componentes personalizados.
+- Testes de usabilidade com usuários reais e feedback documentado.
+- Uso de domínio próprio (ex.: www.nomeprojeto.com).
+- Processamento assíncrono com mensageria (ex.: Kafka, RabbitMQ).
+- Infraestrutura como código (IaC) — ex.: Terraform.
 
 ---
 
 ## O que deve ser evitado
+Más práticas que reduzem a qualidade e a legibilidade do projeto.
+
 - Estilo visual inconsistente ou não responsivo.
-- Interface genérica ou com elementos desorganizados.
+- Interface genérica ou desorganizada.
 - Ausência de feedback ao usuário (ex.: carregamento, erros, confirmações).
-- Uso de bibliotecas ou templates prontos sem personalização.
-- Falta de modularidade no código (ex.: tudo em um único arquivo JavaScript).
+- Uso de bibliotecas, templates ou temas prontos sem personalização.
+- Falta de modularidade (ex.: todo o código concentrado em um único arquivo).
+- Vibecoding (código improvisado, sem planejamento).
+- Uso de ferramentas de documentação como Notion ou Obsidian (não aceitas para entrega oficial).
+- Hospedagem exclusivamente em plataformas otimizadas apenas para frontend (ex.: Vercel, Netlify, Firebase, Render), **sem backend desenvolvido pelo grupo**.
+- Plataformas que automatizam totalmente backend, banco de dados e APIs sem gestão da arquitetura (no-code disfarçado de desenvolvimento).
+- Serviços de cloud que ocultam infraestrutura e automação de deploy (com integração direta via GitHub e SSL automático) **sem domínio técnico sobre o ambiente.**
 
 ---
 
@@ -53,15 +73,25 @@ Características que elevam o nível do projeto e podem gerar destaque e convite
 Erros graves que causam desclassificação ou reprovação direta.
 
 - Projeto não acessível (link quebrado, servidor fora do ar).
-- Código copiado sem autoria (plágio de repositórios, tutoriais).
-- Aplicação que não apresenta nenhuma funcionalidade ativa.
-- Interface inoperante (botões, menus ou links que não funcionam).
+- Código copiado ou plagiado (repositórios, tutoriais, templates).
+- Interface inoperante (botões, menus ou links não funcionam).
 - Violação de segurança básica (dados sensíveis expostos, permissões abertas, etc.).
-- Falta total de documentação.
+- Ausência de documentação mínima.
+- Deploy manual via SSH ou FTP.
+- Uso de processo em cascata (sem práticas iterativas ou integração contínua).
+- Plataformas no-code (ex.: Bubble.io, Webflow, Carrd, Thunkable, Bravo Studio, HubSpot CMS).
+- Banco de dados em disco local (ex.: H2, SQLite).
 
 ---
 
-## Régua de Avaliação
-- **Aprovado**: o sistema está funcional, atende aos requisitos mínimos obrigatórios, é acessível publicamente, possui documentação clara e código versionado. A aplicação resolve um problema real com escopo bem definido.  
-- **Destaque**: além do funcionamento básico, o projeto adota boas práticas de arquitetura, segurança e UX. Traz diferenciais como integração com serviços, CI/CD, visualizações, autenticação segura ou avaliação com usuários reais. Apresenta polimento técnico e visual.  
-- **Reprovado**: não apresenta, quebra ou não cumpre os critérios obrigatórios.
+## Temas a evitar
+- Soluções que utilizam IA apenas via prompt, sem integração efetiva ou arquitetura própria.
+- Sistemas genéricos de gestão de listas (livros, filmes, músicas, etc.), similares a Goodreads.
+
+---
+
+## Temas impedidos
+- Sistema de cardápio online / QR Code.
+- Sistema de controle de estoque.
+- Sistema de tele-entrega.
+- Sistema de gestão financeira (com ou sem IA).
