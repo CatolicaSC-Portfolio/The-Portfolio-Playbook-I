@@ -27,19 +27,19 @@ Essa etapa marca o início da trajetória de desenvolvimento e estabelece as bas
 
 O estudante deverá escolher uma das **cinco linhas oficiais de projeto**, que determinam os critérios técnicos, ferramentas e expectativas de entrega:
 
-1. [**Web Apps**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/web.md)  
+1. [**Web Apps**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/directions/portfolio-directions-webapp.md)
    Aplicações web completas, com interface navegável, arquitetura definida e deploy público.
 
-2. [**Aplicações Mobile**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/mobile.md)  
+2. [**Aplicações Mobile**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/directions/portfolio-directions-mobile.md)
    Aplicativos nativos ou híbridos, com usabilidade e entrega funcional em dispositivo real.
 
-3. [**Jogos Digitais**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/jogos.md)  
+3. [**Jogos Digitais**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/directions/portfolio-directions-jogosdigitais.md)
    Jogos autorais com gameplay funcional, loop básico, documentação de design e build jogável.
 
-4. [**Projetos com IA**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/ia.md)  
+4. [**Projetos com IA**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/directions/portfolio-directions-ia.md)
    Soluções que apliquem de forma fundamentada técnicas de Inteligência Artificial em problemas reais.
 
-5. [**Projetos IoT**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/iot.md)  
+5. [**Projetos IoT** ](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/directions/portfolio-directions-iot.md)
    Soluções envolvendo dispositivos conectados, sensores, atuadores e comunicação em rede.
 
 > A escolha da linha deve ser registrada na RFC e orientará a estrutura técnica, os requisitos e os critérios de avaliação do projeto.
