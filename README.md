@@ -1,52 +1,138 @@
-# Início
-A disciplina de Portfólio da Católica SC tem como objetivo guiar o estudante no desenvolvimento de um projeto autoral, alinhado às demandas do mercado e às competências adquiridas ao longo do curso. Estruturada para simular um ciclo real de entrega de software, ela envolve desde a definição e aprovação do tema — formalizada por meio de um documento RFC avaliado por professores — até a apresentação pública no Poster + Demo Day, momento em que as soluções são demonstradas em ambiente produtivo e avaliadas por critérios técnicos e funcionais. O processo contempla diferentes linhas de projeto (Web, Mobile, Jogos, IA e IoT), cada uma com requisitos obrigatórios, boas práticas recomendadas e diferenciais que podem elevar a qualidade e a visibilidade do trabalho. Mais do que cumprir requisitos técnicos, o Portfólio desafia o aluno a integrar conhecimento, criatividade, responsabilidade ética e conformidade com legislações e normas aplicáveis, resultando em um produto funcional, relevante e de alto nível profissional.
+# 📘 Portfólio – Católica SC
 
+O **Portfólio** é o eixo integrador dos projetos autorais desenvolvidos pelos estudantes da Católica SC.  
+Seu objetivo é conduzir o aluno desde a **concepção da ideia original** até a **entrega de um produto funcional**, ético e alinhado às boas práticas da engenharia de software.  
+Essa trajetória consolida as competências técnicas e profissionais adquiridas ao longo do curso.
 
-# Processo de Escolha de Tema e Aprovação para Projeto de Portfólio
+A jornada se estende por **três disciplinas** distribuídas nos dois últimos semestres:
 
-O Processo de Escolha de Tema e Aprovação para o Projeto de Portfólio é pautado no documento de Request for Comments (RFC), no qual cada estudante apresenta seu tema de Portfólio, 
-elabora o RFC e obtem a aprovação dos professores para então iniciar o desenvolvimento do projeto. 
+- **7º semestre:** PAC 7 — Construção do Documento do Projeto (RFC)  
+- **8º semestre:** PAC 8 e Disciplina Portfólio — Desenvolvimento, Documentação e Apresentação Pública
 
-## Informações Iniciais
-As diretrizes neste documento servem como um ponto de partida para o desenvolvimento dos projetos de portfólio. Durante o semestre, os estudantes terão a oportunidade de refinar suas ideias, ajustar seus planos e aprofundar a pesquisa sobre seus temas escolhidos, sempre com o objetivo de garantir que o projeto final esteja alinhado com os objetivos e expectativas do curso.
+---
 
-## 1. Decisão do Tema do Projeto
+## 🎯 7º Semestre — PAC 7 (Construção do Documento do Projeto - RFC)
 
-O primeiro passo é decidir sobre o tema que será explorado no projeto de portfólio. A escolha inicial deve ser feita com base nos interesses do estudante e nas competências que deseja desenvolver.
+A disciplina **PAC 7** tem como foco a **definição e aprovação do tema do projeto de portfólio**, formalizada por meio de um documento **RFC (Request for Comments)**.  
+Essa etapa marca o início da trajetória de desenvolvimento e estabelece as bases conceituais e técnicas do trabalho que será desenvolvido nos semestres seguintes.
 
-O Estudante deve atentar para o [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md) onde há um conjunto de direcionamentos,  envolvendo o tema e a pilha tecnológica a serem seguidos.
+### 📍 Etapas Principais
 
-### 1.1 Projeto Individual
-O projeto é realizado individualmente, permitindo que cada estudante demonstre suas habilidades de maneira independente.
+#### 1. Escolha do Tema
+- O estudante deve selecionar um tema de projeto que reflita seus interesses e competências, alinhado às áreas do curso.
+- O tema deve seguir as diretrizes do [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md), que define trilhas, tecnologias e boas práticas.
+- O projeto é **individual**, permitindo a expressão das habilidades e identidade profissional de cada estudante.
 
-## 2. Elaboração do Documento de RFC
-O estudante deve elaborar um documento de RFC inicial para o projeto, que será revisado e aprimorado com o feedback dos professores. A estrutura do documento pode ser [acessada aqui](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md).
+#### 2. Linhas de Projeto Disponíveis
 
-## 3. Aprovação dos Professores
-### 3.1 Feedback e Melhorias
-O RFC inicial será avaliado pelos professores, que fornecerão feedback para aprimoramento. É papel do estudante buscar três (03) professores, com uma cópia impressa do projeto para que cada professor possa avaliar em uma conversa. 
+O estudante deverá escolher uma das **cinco linhas oficiais de projeto**, que determinam os critérios técnicos, ferramentas e expectativas de entrega:
 
-### 3.2 Nota do RFC
-Os professores atribuirão uma nota inicial ao RFC e farão comentários, que ajudará a guiar as melhorias no projeto. A nota deve ser anotada no documento da RFC que será devolvida ao professor da disciplina Porfólio I.
+1. [**Web Apps**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/web.md)  
+   Aplicações web completas, com interface navegável, arquitetura definida e deploy público.
 
-## 4. Início da Confeção do Projeto
-Com a aprovação inicial, o estudante iniciará os trabalhos no projeto, levando em consideração o feedback recebido para refinamentos futuros.
+2. [**Aplicações Mobile**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/mobile.md)  
+   Aplicativos nativos ou híbridos, com usabilidade e entrega funcional em dispositivo real.
 
-## Objetivo
-O processo descrito visa assegurar que cada projeto de portfólio desenvolvido pelos estudantes seja de alta qualidade, relevante e alinhado com as metas educacionais do curso. Ao longo do semestre, espera-se que os estudantes aprofundem suas pesquisas, refinem suas propostas e desenvolvam projetos que não apenas atendam, mas superem as expectativas do curso.
+3. [**Jogos Digitais**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/jogos.md)  
+   Jogos autorais com gameplay funcional, loop básico, documentação de design e build jogável.
 
+4. [**Projetos com IA**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/ia.md)  
+   Soluções que apliquem de forma fundamentada técnicas de Inteligência Artificial em problemas reais.
 
-# Outros Docs
+5. [**Projetos IoT**](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/iot.md)  
+   Soluções envolvendo dispositivos conectados, sensores, atuadores e comunicação em rede.
 
-- [Modelo de RFC para Estruturação do Tema](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)
-- [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md)
-- [Diretrizes-Avaliação-Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/diretrizes-avaliacao-professores.md)
-- Link para [Playbook de Portfólio II](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II)
-- [Normas e Regulamentações](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/normas.md)
+> A escolha da linha deve ser registrada na RFC e orientará a estrutura técnica, os requisitos e os critérios de avaliação do projeto.
 
+#### 3. Elaboração do Documento RFC
+- O RFC é o documento que estrutura a proposta inicial do projeto.  
+- Ele apresenta o problema, a solução proposta, o público-alvo, o escopo e os principais requisitos funcionais e técnicos.  
+- O modelo oficial pode ser acessado [aqui](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md).
 
-# GPT de Apoio
-- [Pré-analise da RFC](https://chatgpt.com/g/g-6863c3a91e1881919572856ff853bf1f-pre-analise-de-projetos-rfc-da-catolica?model=o3)
+#### 4. Avaliação e Aprovação
+- Cada aluno deve buscar **três professores avaliadores**, apresentar a RFC impressa e coletar notas e feedbacks.  
+- As observações e notas devem constar na versão final do documento entregue ao professor da disciplina.  
+- Após a aprovação, o aluno está apto a iniciar o desenvolvimento do projeto.
 
+#### 5. Início da Construção
+Com a RFC aprovada, o estudante inicia a execução do projeto, aplicando o feedback recebido e ajustando o escopo conforme as orientações dos professores.
 
+---
 
+### 🎓 Objetivo da Etapa
+Garantir que cada estudante inicie seu projeto com uma base sólida, viável e bem estruturada, conectando teoria, prática e propósito.
+
+### 🧭 Documentos de Apoio
+- [Modelo de RFC](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)  
+- [Diretrizes de Avaliação dos Professores](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/diretrizes-avaliacao-professores.md)  
+- [Normas e Regulamentações](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/normas.md)  
+- [Pré-análise de RFC com GPT de Apoio](https://chat.openai.com/g/g-6863c3a91e1881919572856ff853bf1f-pre-analise-de-projetos-rfc-da-catolica)
+
+---
+
+## 🚀 8º Semestre — PAC 8 e Disciplina de Portfólio
+
+No último semestre, o estudante avança da etapa de planejamento para a **consolidação e entrega final** do seu projeto.  
+O foco é a **execução, documentação e apresentação pública** no evento **Poster + Demo Day**, que substitui o modelo tradicional de banca.
+
+### 🎯 Objetivos
+- Consolidar o projeto desenvolvido, garantindo qualidade técnica, inovação e responsabilidade profissional.  
+- Apresentar publicamente um produto funcional em ambiente produtivo.
+
+### 📦 Requisitos de Entrega
+Para habilitar-se à apresentação final, o projeto deve conter:
+- Repositório público no GitHub (com histórico de commits).  
+- Poster digital (PDF) com QR Code de acesso à aplicação.  
+- Link funcional da aplicação, jogo, app, IA ou solução IoT.  
+- Documentação de arquitetura, requisitos e decisões técnicas.  
+- Cumprimento dos critérios obrigatórios da linha de projeto escolhida.
+
+---
+
+## 🧩 Poster + Demo Day
+
+### 📢 Apresentação
+O evento é o ápice do Portfólio, reunindo estudantes, professores e comunidade acadêmica.  
+Os alunos apresentam:
+
+- Um **pôster técnico** (formato A0, orientação vertical, fonte mínima 20 pt, cores de alto contraste) contendo:  
+  - Título, autores e e-mails.  
+  - Contexto, problema e solução proposta.  
+  - Arquitetura e decisões técnicas.  
+  - QR Code para acesso à aplicação.
+
+- Uma **demonstração funcional** do sistema em ambiente produtivo.
+
+### 🧮 Avaliação
+- Cada projeto será avaliado por **três professores**, com formulário Likert e comentários qualitativos.  
+- A **nota final (0–10)** é a média das avaliações docentes.  
+- A comunidade acadêmica poderá atribuir **menções especiais** (como “Trabalho Escolhido pela Comunidade”).
+
+---
+
+## 🏆 Trabalhos em Destaque
+Os projetos que mais se destacarem em **inovação**, **qualidade técnica** e **impacto** serão convidados para uma **Banca Técnica Especial**, podendo integrar a **Semana Acadêmica da Católica SC**.  
+Esses trabalhos receberão **menção de destaque** e divulgação institucional.
+
+---
+
+## ⚖️ Critérios de Avaliação
+
+| Classificação | Descrição |
+|----------------|------------|
+| **Aprovado** | Atende aos requisitos obrigatórios, é funcional, público e documentado. |
+| **Destaque** | Agrega diferenciais técnicos, boas práticas de engenharia, UX e inovação. |
+| **Reprovado** | Não cumpre os critérios mínimos ou apresenta falhas críticas (ex.: link inoperante, plágio, falta de documentação). |
+
+---
+
+## 🔗 Referências e Guias
+
+- [Guia de Avaliação do Demo Day](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/diretrizes-avaliacao-professores.md)
+- [Guia para Poster](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/guia_poster.md)
+- [Locais para publicação](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/locais_publicacao.md)
+---
+
+**Versão revisada e integrada (PAC 7 + PAC 8 + Portfólio)**  
+Católica SC — Núcleo de Engenharia de Software  
+Atualização: Novembro / 2025
