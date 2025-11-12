@@ -20,7 +20,7 @@ Essa etapa marca o início da trajetória de desenvolvimento e estabelece as bas
 
 #### 1. Escolha do Tema
 - O estudante deve selecionar um tema de projeto que reflita seus interesses e competências, alinhado às áreas do curso.
-- O tema deve seguir as diretrizes do [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/portfolio-directions.md), que define trilhas, tecnologias e boas práticas.
+- O tema deve seguir as diretrizes do [Portfólio Directions](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/directions/portfolio-directions-GERAL.md), que define trilhas, tecnologias e boas práticas.
 - O projeto é **individual**, permitindo a expressão das habilidades e identidade profissional de cada estudante.
 
 #### 2. Linhas de Projeto Disponíveis
