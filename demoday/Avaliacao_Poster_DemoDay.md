@@ -1,7 +1,9 @@
 # Avaliação – Poster + Demo Day
 
-A avaliação final será realizada durante o **Poster + Demo Day**, considerando apenas as notas atribuídas pelos professores.
+A avaliação final será realizada durante o Poster + Demo Day, considerando as notas atribuídas pelos professores e pela comunidade acadêmica.
 
+A avaliação busca reconhecer o aprendizado, a aplicação prática de competências e a capacidade de apresentar soluções de forma crítica e integrada.
+Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia técnica e evolução contínua dos estudantes.
 
 ## 🔑 Formato de Avaliação
 - Cada trabalho será avaliado por:
@@ -13,8 +15,22 @@ A avaliação final será realizada durante o **Poster + Demo Day**, considerand
   - Lista de trabalhos.
   - Links para repositórios e documentações.
 
+---
 
-## ✅ Critérios de Avaliação (Escala Likert)
+## 🎯 Escala Likert (descritores de referência)
+
+| Nível | Descrição | Significado prático |
+|:------|:-----------|:--------------------|
+| **1** | Insuficiente | Não atende aos critérios mínimos; demonstra falhas conceituais ou técnicas. |
+| **2** | Básico | Atende parcialmente; há lacunas significativas na execução ou fundamentação. |
+| **3** | Adequado | Cumpre o esperado de forma satisfatória, com coerência e funcionalidade. |
+| **4** | Avançado | Supera expectativas em alguns aspectos, evidenciando domínio técnico e clareza conceitual. |
+| **5** | Excelência | Demonstra maturidade técnica e conceitual, originalidade e integração plena entre teoria e prática. |
+
+---
+
+## ✅ Critérios de Avaliação
+
 ### 1. Relevância e Complexidade
 
 * **Problema real** – o projeto aborda uma necessidade concreta e significativa.  
@@ -81,7 +97,15 @@ A avaliação final será realizada durante o **Poster + Demo Day**, considerand
 
 ---
 
-### 5. Apresentação no Evento (Poster + Demo Day)
+### 5. Ética, Integridade e Autoria
+
+* **Autoria genuína** – o projeto é resultado do trabalho original do acdêmico, sem cópias de código, design ou texto.  
+* **Uso ético de dados** – respeita princípios de privacidade, LGPD e boas práticas de pesquisa.  
+  *Implicação:* plágio, falsificação de resultados ou uso indevido de dados resultam em reprovação imediata.  
+
+---
+
+### 6. Apresentação no Evento (Poster + Demo Day)
 
 * **Clareza e narrativa** – explicação direta do problema, solução e resultados.  
   *Exemplo:* storytelling com foco no impacto da solução.
@@ -95,10 +119,16 @@ A avaliação final será realizada durante o **Poster + Demo Day**, considerand
 * **Pôster técnico** – conteúdo autoexplicativo, com QR Code funcional e identidade visual coerente.  
   *Implicação:* pôster incompleto ou ilegível reduz percepção de profissionalismo.
 
-
+---
 
 ## ⭐ Participação da Comunidade Acadêmica
-- Haverá avaliação feita pela comunidade acadêmica.
+
+- A comunidade acadêmica também avaliará os projetos, atribuindo notas de **originalidade** e **clareza de apresentação**.  
+- A nota da comunidade será incorporada à média final com peso menor, valorizando o engajamento e a comunicação científica.
+
+---
 
 ## 📏 Escala Final
-- **Nota Final**: Média das avaliações (0 a 10).
+
+- **Nota Final:** média ponderada das avaliações (0 a 10), considerando professores e comunidade.  
+- A avaliação privilegia **aprendizado, consistência, originalidade e ética profissional** como pilares de excelência.
