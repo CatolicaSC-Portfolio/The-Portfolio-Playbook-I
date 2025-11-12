@@ -4,7 +4,9 @@ A avaliação final será realizada durante o **Poster + Demo Day**, considerand
 
 
 ## 🔑 Formato de Avaliação
-- Cada trabalho será avaliado por **no mínimo 3 professores**.
+- Cada trabalho será avaliado por:
+  - Três professores, com formulário Likert e comentários qualitativos.
+  - Uma quarta nota será o resultado da média de todas as notas recebidas da comunidade durante o Demoday
 - A média das notas atribuídas resultará em uma **única nota final** (0 a 10).
 - A avaliação será registrada em **formulário ou aplicativo**, utilizando **escala Likert** para cada critério e espaço para comentários qualitativos.
 - Professores receberão antecipadamente:
@@ -13,31 +15,90 @@ A avaliação final será realizada durante o **Poster + Demo Day**, considerand
 
 
 ## ✅ Critérios de Avaliação (Escala Likert)
-1. **Relevância e Complexidade**  
-   - O projeto resolve um problema real?  
-   - O escopo e as funcionalidades são adequados e bem definidos?  
-2. **Documentação**  
-   - Apresenta motivação, requisitos, modelagem, arquitetura e instruções de uso no repositório?  
-3. **Qualidade Técnica do Código**  
-   - Estrutura e organização do código.  
-   - Aplicação de boas práticas e testes.  
-4. **Infraestrutura e Engenharia**  
-   - Uso de ferramentas de versionamento, CI/CD, monitoramento, segurança e práticas de engenharia adequadas.  
-5. **Apresentação no Evento**  
-   - Clareza na explicação da solução.  
-   - Demonstração funcional no Poster + Demo Day.  
-   - Capacidade de responder a perguntas e contextualizar resultados.
+### 1. Relevância e Complexidade
+
+* **Problema real** – o projeto aborda uma necessidade concreta e significativa.  
+  *Exemplos:* gestão de filas hospitalares, automação de processos contábeis, monitoramento ambiental.  
+  *Implicação:* temas genéricos ou sem aplicação prática reduzem a nota.
+
+* **Escopo e funcionalidades** – bem definidos, com metas alcançáveis e coerentes.  
+  *Exemplo:* sistema de reservas com login, listagem e cancelamento, evitando excesso de funcionalidades não implementadas.
+
+* **Originalidade e propósito** – evita replicar tutoriais ou modelos prontos.  
+  *Exemplo:* projeto inspirado em app conhecido, mas com proposta diferente ou contexto local.  
+  *Implicação:* cópias diretas sem personalização podem levar à desclassificação.
+
+---
+
+### 2. Documentação
+
+* **Repositório completo** – inclui motivação, requisitos, modelagem, arquitetura e instruções de uso.  
+  *Exemplo:* README com diagrama de arquitetura, instruções de execução e histórico de decisões.
+
+* **Registro de decisões** – documentação de escolhas técnicas e mudanças.  
+  *Exemplo:* uso de RFCs, ADRs ou issues no GitHub.  
+  *Implicação:* ausência de registro indica falta de método de engenharia.
+
+* **Clareza e organização** – textos, diagramas e instruções de fácil compreensão.  
+  *Exemplo:* diagramas legíveis e coerentes com o código-fonte.
+
+---
+
+### 3. Qualidade Técnica do Código
+
+* **Estrutura e modularização** – código organizado por camadas e responsabilidades.  
+  *Exemplo:* controller, service, repository, separação de frontend e backend.
+
+* **Boas práticas** – uso consistente de padrões da linguagem e estilo de código.  
+  *Exemplo:* linters, convenções de nomes, tratamento de erros.
+
+* **Testes automatizados** – presença de testes unitários e/ou de integração.  
+  *Exemplo:* Jest, PyTest, JUnit, Postman/Newman.  
+  *Implicação:* ausência total de testes compromete a confiabilidade.
+
+* **Histórico de commits** – progresso contínuo e colaborativo.  
+  *Exemplo:* commits frequentes e mensagens descritivas.
+
+---
+
+### 4. Infraestrutura e Engenharia
+
+* **Versionamento** – controle de branches e issues.  
+  *Exemplos:* GitHub, GitLab, Bitbucket.
+
+* **CI/CD (Integração e Entrega Contínua)** – pipeline automatizado de build, testes ou deploy.  
+  *Exemplos:* GitHub Actions, GitLab CI, Jenkins, Vercel, Netlify.  
+  *Implicação:* ausência de automação indica baixa maturidade de engenharia.
+
+* **Monitoramento e observabilidade** – logs e métricas básicas configuradas.  
+  *Exemplos:* Grafana, CloudWatch, Logtail, Railway Insights.
+
+* **Segurança** – uso de variáveis de ambiente, HTTPS, autenticação segura.  
+  *Exemplos:* JWT, OAuth2, proteção contra XSS/CSRF.
+
+* **Práticas DevOps** – deploy documentado, uso de containers ou scripts automatizados.  
+  *Exemplos:* Docker, Docker Compose, AWS, Railway, Render.
+
+---
+
+### 5. Apresentação no Evento (Poster + Demo Day)
+
+* **Clareza e narrativa** – explicação direta do problema, solução e resultados.  
+  *Exemplo:* storytelling com foco no impacto da solução.
+
+* **Demonstração funcional** – sistema acessível e operante em ambiente produtivo.  
+  *Exemplo:* link público via Vercel, Firebase ou servidor institucional.
+
+* **Domínio técnico** – equipe demonstra segurança ao responder perguntas.  
+  *Exemplo:* justificar escolha de arquitetura, linguagem, bibliotecas e métricas.
+
+* **Pôster técnico** – conteúdo autoexplicativo, com QR Code funcional e identidade visual coerente.  
+  *Implicação:* pôster incompleto ou ilegível reduz percepção de profissionalismo.
 
 
 
 ## ⭐ Participação da Comunidade Acadêmica
-- Poderá haver avaliação adicional feita pela comunidade acadêmica.
-- Nesse caso, será concedido o prêmio **“Trabalho Escolhido pela Comunidade”** ao projeto com melhor média, considerando:
-  - **Originalidade** (escala Likert)
-  - **Qualidade** (escala Likert)
-
-
+- Haverá avaliação feita pela comunidade acadêmica.
 
 ## 📏 Escala Final
-- **Nota Final**: Média das avaliações dos professores (0 a 10).
-- **Premiação da Comunidade**: Melhor média em Originalidade e Qualidade.
+- **Nota Final**: Média das avaliações (0 a 10).
