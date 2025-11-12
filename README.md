@@ -114,20 +114,10 @@ Os alunos apresentam:
 ---
 
 ## 🏆 Trabalhos em Destaque
-Os projetos que mais se destacarem em **inovação**, **qualidade técnica** e **impacto** serão convidados para uma **Banca Técnica Especial**, podendo integrar a **Semana Acadêmica da Católica SC**.  
-Esses trabalhos receberão **menção de destaque** e divulgação institucional.
+Os projetos que mais se destacarem em **inovação**, **qualidade técnica** e **impacto** serão convidados para uma **Banca Técnica Especial**. Esses trabalhos receberão **menção de destaque**.
 
 ---
 
-## ⚖️ Critérios de Avaliação
-
-| Classificação | Descrição |
-|----------------|------------|
-| **Aprovado** | Atende aos requisitos obrigatórios, é funcional, público e documentado. |
-| **Destaque** | Agrega diferenciais técnicos, boas práticas de engenharia, UX e inovação. |
-| **Reprovado** | Não cumpre os critérios mínimos ou apresenta falhas críticas (ex.: link inoperante, plágio, falta de documentação). |
-
----
 
 ## 🔗 Referências e Guias
 
