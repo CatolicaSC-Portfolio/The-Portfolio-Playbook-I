@@ -11,7 +11,7 @@ Esta lista pode ser utilizada como referência para publicar os projetos desenvo
 - [Google Cloud](https://cloud.google.com/free)
 - [IBM Cloud](https://www.ibm.com/cloud/free)
 - [Microsoft Azure](https://azure.microsoft.com/free)
-- [Vultr](https://www.vultr.com/free-cloud/)
+- [Vultr](https://www.vultr.com/)
 
 ---
 
