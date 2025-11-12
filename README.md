@@ -47,7 +47,7 @@ O estudante deverá escolher uma das **cinco linhas oficiais de projeto**, que d
 #### 3. Elaboração do Documento RFC
 - O RFC é o documento que estrutura a proposta inicial do projeto.  
 - Ele apresenta o problema, a solução proposta, o público-alvo, o escopo e os principais requisitos funcionais e técnicos.  
-- O modelo oficial pode ser acessado [aqui](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md).
+- O modelo oficial pode ser acessado [aqui](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/RFC/modelo-de-RFC.md).
 
 #### 4. Avaliação e Aprovação
 - Cada aluno deve buscar **três professores avaliadores**, apresentar a RFC impressa e coletar notas e feedbacks.  
