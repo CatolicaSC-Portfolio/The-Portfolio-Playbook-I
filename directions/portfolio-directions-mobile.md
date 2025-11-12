@@ -1,4 +1,4 @@
-## Linha de Projeto – Aplicações Mobile
+# Linha de Projeto – Aplicações Mobile
 
 ## O que é obrigatório atender
 - O aplicativo deve estar disponível em ambiente produtivo (por exemplo: APK instalável, publicado no Google Play ou hospedado em plataforma de testes como Firebase App Distribution, TestFlight etc.).
@@ -6,11 +6,7 @@
 - O sistema deve demonstrar arquitetura mobile compatível (MVC, MVVM, Clean Architecture, etc.).
 - Código-fonte disponível em repositório com histórico de desenvolvimento.
 - Interface funcional e testável no dispositivo, com link acessível por QR code no pôster.
-- Documentação básica contendo:
-  - Requisitos funcionais.
-  - Casos de uso ou user stories.
-  - Estrutura de navegação da aplicação.
-  - Diagrama de arquitetura.
+- Documentação básica contendo: requisitos, casos de uso ou user stories, estrutura de navegação da aplicação e diagrama de arquitetura.
 
 ---
 
