@@ -24,6 +24,7 @@ Para que o projeto seja habilitado a participar do evento final, é necessário:
 - **Solução proposta**.
 - **Arquitetura** (diagrama ou representação visual).
 - **Referências** (bibliográficas, técnicas, links relevantes).
+- **Template** : Cabeçalho, rodapé e padrões de cores devem seguir o [TEMPLATE AQUI](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/demoday/TEMPLATE_POSTER_PORTIFOLIO.pptx)
 
 ---
 
