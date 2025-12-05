@@ -33,6 +33,10 @@ Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia t
 
 ### 1. Relevância e Complexidade
 
+Relevância, escopo claro e originalidade: projeto resolve problema real, tem funcionalidades bem definidas e evita copiar tutoriais, garantindo propósito próprio e aplicação prática.
+
+*Detalhamento:*
+
 * **Problema real** – o projeto aborda uma necessidade concreta e significativa.  
   *Exemplos:* gestão de filas hospitalares, automação de processos contábeis, monitoramento ambiental.  
   *Implicação:* temas genéricos ou sem aplicação prática reduzem a nota.
@@ -48,6 +52,10 @@ Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia t
 
 ### 2. Documentação
 
+Documentação completa, organizada e rastreável: inclui motivação, requisitos, arquitetura, instruções, registro claro de decisões técnicas e materiais coerentes, legíveis e fáceis de entender.
+
+*Detalhamento:*
+
 * **Repositório completo** – inclui motivação, requisitos, modelagem, arquitetura e instruções de uso.  
   *Exemplo:* README com diagrama de arquitetura, instruções de execução e histórico de decisões.
 
@@ -61,6 +69,10 @@ Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia t
 ---
 
 ### 3. Qualidade Técnica do Código
+
+Código bem estruturado, modular e legível, com boas práticas, testes automatizados e histórico de commits claro que evidencie evolução contínua e responsabilidade técnica.
+
+*Detalhamento:*
 
 * **Estrutura e modularização** – código organizado por camadas e responsabilidades.  
   *Exemplo:* controller, service, repository, separação de frontend e backend.
@@ -78,6 +90,10 @@ Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia t
 ---
 
 ### 4. Infraestrutura e Engenharia
+
+Engenharia madura: versionamento consistente, CI/CD funcional, monitoramento básico, práticas de segurança aplicadas e deploy automatizado com uso de ferramentas DevOps modernas.
+
+*Detalhamento:*
 
 * **Versionamento** – controle de branches e issues.  
   *Exemplos:* GitHub, GitLab, Bitbucket.
@@ -99,6 +115,10 @@ Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia t
 
 ### 5. Ética, Integridade e Autoria
 
+Autoria real, sem plágio, com uso ético e responsável de dados; violações como cópias, falsificações ou mau uso implicam reprovação imediata.
+
+*Detalhamento:*
+
 * **Autoria genuína** – o projeto é resultado do trabalho original do acdêmico, sem cópias de código, design ou texto.  
 * **Uso ético de dados** – respeita princípios de privacidade, LGPD e boas práticas de pesquisa.  
   *Implicação:* plágio, falsificação de resultados ou uso indevido de dados resultam em reprovação imediata.  
@@ -106,6 +126,10 @@ Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia t
 ---
 
 ### 6. Apresentação no Evento (Poster + Demo Day)
+
+Apresentação clara, demonstração funcional, domínio técnico nas respostas e pôster autoexplicativo com identidade consistente; falhas visuais ou operacionais reduzem impacto.
+
+*Detalhamento:*
 
 * **Clareza e narrativa** – explicação direta do problema, solução e resultados.  
   *Exemplo:* storytelling com foco no impacto da solução.
