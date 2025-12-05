@@ -93,7 +93,7 @@ Mais do que mensurar desempenho, o processo visa promover reflexão, autonomia t
   *Exemplos:* JWT, OAuth2, proteção contra XSS/CSRF.
 
 * **Práticas DevOps** – deploy documentado, uso de containers ou scripts automatizados.  
-  *Exemplos:* Docker, Docker Compose, AWS, Railway, Render.
+  *Exemplos:* Docker, Docker Compose, AWS, GCP, Azure.
 
 ---
 
